@@ -26,3 +26,11 @@ python app.py
 
 <img src="./Images/img1.png" alt="screenshot"/>
 <img src="./Images/img2.png" alt="screenshot"/>
+
+
+[click-to-check-the-project](https://boston-house-price-prediction-vlx7.onrender.com)
+
+
+--------------------------------------- END -----------------------------------------------
+
+### Thanks!!
